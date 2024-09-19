@@ -12,7 +12,7 @@
 
 | 项目名称 |最高速度 | 时长 | 高度 | 长度 | 身高上限 | 简介 | 谷歌地图 | 官网 | 图片 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BATMAN THE DARK KNIGHT | 55mph | 2min 20sec | 118ft | 2600ft | | 过山车（倒挂） | [Google](https://maps.app.goo.gl/QnQr564vfwCRApmBA) | [Website](https://www.sixflags.com/newengland/attractions/batman-dark-knight) | <img src="image/ride/027_2-scaled.jpg" width="250"> |
+| BATMAN THE DARK KNIGHT | 55mph | 2min 20sec | 118ft | 2600ft | | 过山车（倒挂） | [Google](https://maps.app.goo.gl/QnQr564vfwCRApmBA) | [Website](https://www.sixflags.com/newengland/attractions/batman-dark-knight) | <img src="image/ride/maximum/027_2-scaled.jpg" width="250"> |
 | CYBORG™ Hyper Drive | | | | | | 无情地旋转和旋转 | [Google](https://maps.app.goo.gl/9oq5ciGqhn51x9u59) | [Website](https://www.sixflags.com/newengland/attractions/cyborg-hyper-drive) | <img src="image/ride/maximum/Cyborg__SFNE__-scaled.jpg" width="250"> |
 | Flashback | 47mph | 1min 48sec | 117ft | 935ft | | 过山车（倒挂） | [Google](https://maps.app.goo.gl/TMXbGiGz2hq7j1UC6) | [Website](https://www.sixflags.com/newengland/attractions/flashback) | <img src="image/ride/maximum/2017_sfne_flashback_3_1.jpg" width="250"> |
 | HARLEY QUINN Spinsanity | 70mph | 2min | 147ft | | | 摇摆+旋转 | [Google](https://maps.app.goo.gl/Q6rqHUNWC6PMoDrdA) | [Website](https://www.sixflags.com/newengland/attractions/harley-quinn-spinsanity) | <img src="image/ride/maximum/dsc01239_0-scaled.jpg" width="250"> |
