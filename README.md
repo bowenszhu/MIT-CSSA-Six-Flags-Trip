@@ -21,6 +21,10 @@
 
 ## Maximum刺激项目
 
+[Google Maps Collection](https://maps.app.goo.gl/aTr2waPhhJSh2gWd6)
+
+<img src="image/ride/maximum/Firefox_Screenshot_2024-09-20T00-16-41.066Z.png">
+
 | 项目名称 |最高速度 | 时长 | 高度 | 长度 | 身高上限 | 简介 | 谷歌地图 | 官网 | 图片 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BATMAN THE DARK KNIGHT | 55mph | 2min 20sec | 118ft | 2600ft | | 过山车（倒挂） | [Google](https://maps.app.goo.gl/QnQr564vfwCRApmBA) | [Website](https://www.sixflags.com/newengland/attractions/batman-dark-knight) | <img src="image/ride/maximum/027_2-scaled.jpg" width="250"> |
