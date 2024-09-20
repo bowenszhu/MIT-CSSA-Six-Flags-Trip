@@ -8,7 +8,7 @@
 
 项目平均排队时间：15 min - 1 hour
 
-[手机App](https://www.sixflags.com/national/app-download) 里有地图,但不容易使用.
+[手机App](https://www.sixflags.com/national/app-download) 里有地图，但不容易使用。配合谷歌地图使用更佳。
 
 [园区地图](https://www.sixflags.com/newengland/plan-your-visit/park-map)
 
@@ -19,11 +19,13 @@
 * [Moderate中等项目](#moderate中等项目)
 * [Mild温和项目](#mild温和项目)
 
+部分限高130cm的项目未加入此列表。
+
 ## Maximum刺激项目
 
 [Google Maps Collection](https://maps.app.goo.gl/aTr2waPhhJSh2gWd6)
 
-<img src="image/ride/maximum/Firefox_Screenshot_2024-09-20T00-16-41.066Z.png">
+![所有Maximum刺激项目](image/ride/maximum/Firefox_Screenshot_2024-09-20T00-16-41.066Z.png)
 
 | 项目名称 |最高速度 | 时长 | 高度 | 长度 | 身高上限 | 简介 | 谷歌地图 | 官网 | 图片 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -41,6 +43,10 @@
 
 ## Moderate中等项目
 
+[Google Maps Collection](https://maps.app.goo.gl/vWynRRuwRDGGKpTWA)
+
+![所有Moderate中等项目](image/ride/moderate/Firefox_Screenshot_2024-09-20T00-23-37.132Z.png)
+
 | 项目名称 | 最高速度 | 时长 | 高度 | 长度 | 身高上限 | 简介 | 谷歌地图 | 官网 | 图片 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CATWOMAN Whip | 22mph | 1min | 26ft | 1181ft | | 过山车 | [Google](https://maps.app.goo.gl/MLzja9ZiZut3o3V36) | [Website](https://www.sixflags.com/newengland/attractions/catwomans-whip) | <img src="image/ride/moderate/sfne_catwomanswhip_1440x1533-2.jpg" width="250"> |
@@ -53,6 +59,10 @@
 | Tomahawk | | | | | 195cm | 旋转摇摆 | [Google](https://maps.app.goo.gl/wQ55qwYVE4cWzWJZ7) | [Website](https://www.sixflags.com/newengland/attractions/tomahawk) | <img src="image/ride/moderate/SFNE_Tomahawk_1999_02-scaled.jpg" width="250"> |
 
 ## Mild温和项目
+
+[Google Maps Collection]https://maps.app.goo.gl/rKFBzCfiYodPyPk79)
+
+![所有Mild温和项目](image/ride/mild/Firefox_Screenshot_2024-09-20T00-28-12.021Z.png)
 
 | 项目名称 | 最高速度 | 时长 | 高度 | 长度 | 身高上限 | 简介 | 谷歌地图 | 官网 | 图片 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
