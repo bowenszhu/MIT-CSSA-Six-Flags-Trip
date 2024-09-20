@@ -14,6 +14,10 @@
 
 ![park map](image/map/sfne_park-map-and-guide-1.png)
 
+* [Maximum刺激项目](#maximum刺激项目)
+* [Moderate中等项目](#moderate中等项目)
+* [Mild温和项目](#mild温和项目)
+
 ## Maximum刺激项目
 
 | 项目名称 |最高速度 | 时长 | 高度 | 长度 | 身高上限 | 简介 | 谷歌地图 | 官网 | 图片 |
