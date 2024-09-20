@@ -8,7 +8,7 @@
 
 项目平均排队时间：15 min - 1 hour
 
-[手机App](https://www.sixflags.com/national/app-download)
+[手机App](https://www.sixflags.com/national/app-download) 里有地图,但不容易使用.
 
 [园区地图](https://www.sixflags.com/newengland/plan-your-visit/park-map)
 
