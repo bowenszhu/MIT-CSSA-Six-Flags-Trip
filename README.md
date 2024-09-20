@@ -14,6 +14,7 @@
 
 ![park map](image/map/sfne_park-map-and-guide-1.png)
 
+## 项目刺激程度等级
 * [Maximum刺激项目](#maximum刺激项目)
 * [Moderate中等项目](#moderate中等项目)
 * [Mild温和项目](#mild温和项目)
