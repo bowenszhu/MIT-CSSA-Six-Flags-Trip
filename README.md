@@ -8,6 +8,10 @@
 
 项目平均排队时间：15 min - 1 hour
 
+[天气查询](https://weather.com/weather/today/l/1622b5a2af13e8b55c1712a128568e3c014662fd4104e35e9a01c59f7d95344a)
+
+[2024年10月6日Agawam预计日落时间6:22pm](https://www.timeanddate.com/sun/@z-us-01001?month=10&year=2024)
+
 [手机App](https://www.sixflags.com/national/app-download) 里有地图，但不容易使用。配合谷歌地图使用更佳。
 
 [园区地图](https://www.sixflags.com/newengland/plan-your-visit/park-map)
@@ -19,7 +23,7 @@
 * [Moderate中等项目](#moderate中等项目)
 * [Mild温和项目](#mild温和项目)
 
-部分限高130cm的项目未加入此列表。
+部分限高130cm的项目和Hurricane Harbor水上公园项目未加入此列表。
 
 ## Maximum刺激项目
 
