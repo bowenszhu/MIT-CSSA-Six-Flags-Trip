@@ -12,7 +12,7 @@
 
 [2024年10月6日Agawam预计日落时间6:22pm](https://www.timeanddate.com/sun/@z-us-01001?month=10&year=2024)
 
-[手机App](https://www.sixflags.com/national/app-download) 里有地图，但不容易使用。配合谷歌地图使用更佳。
+[手机App](https://www.sixflags.com/national/app-download) 里有地图，但不容易使用。在谷歌地图上提前标记地点使用更方便。
 
 [园区地图](https://www.sixflags.com/newengland/plan-your-visit/park-map)
 
